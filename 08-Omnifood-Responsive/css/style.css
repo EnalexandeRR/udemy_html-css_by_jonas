@@ -21,7 +21,7 @@
   list-style: none;
   display: flex;
   align-items: center;
-  gap: 3.2rem;
+  gap: 4.8rem;
 }
 
 .main-nav-link:link,
@@ -566,10 +566,6 @@
   font-weight: 500;
   margin-bottom: 4rem;
 }
-
-.adress {
-}
-
 .contacts {
   font-style: normal;
   font-size: 1.6rem;
